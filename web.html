@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <meta charset="utf-8"/>
+        <body>
+           <p>
+           <img src="D:/web1/实验三/logo.jpg" alt=" "/><img src="D:/web1/实验三/suc.jpg" alt=" "/><a href ="   "target="_blank" >网站首页</a>&nbsp;<a href ="   "target="_blank" >关于我们</a>&nbsp;<a href ="   "target="_blank" >新闻中心</a>&nbsp;<a href ="   "target="_blank" >苗木基地</a>&nbsp;<a href ="   "target="_blank" >产品中心</a>&nbsp;<a href ="   "target="_blank" >成功案例</a>&nbsp;<a href ="   "target="_blank" >联系我们</a>&nbsp;<a href ="   "target="_blank" >行业资讯</a><img src="D:/web1/实验三/suc2.jpg" alt=" "/></p></br>
+           <p>
+           》&nbsp;<a href ="   "target="_blank" >网站首页</a>&nbsp;-&nbsp;新闻中心</p></br>
+           <a href ="   "target="_blank" >成功案例</a></br>
+           <img src="D:/web1/实验三/f1.jpg" alt=" "/></br>
+           <img src="D:/web1/实验三/f2.jpg" alt=" "/></br>
+           <a href ="   "target="_blank" >热点新闻</a></br>
+           <img src="D:/web1/实验三/f3.jpg" alt=" "/></br>
+           <img src="D:/web1/实验三/f5.jpg" alt=" "/></br>
+           <a href ="   "target="_blank" >新闻中心</a></br>
+               <ul>
+               <a href ="   "target="_blank" >林业科学研究所举办专业技术培训班</a>2017-02-12</ul></br>
+               <ul>
+               <a href ="   "target="_blank" >林业科学研究所举办专业技术培训班</a>2017-02-12</ul></br>
+               <ul>
+               <a href ="   "target="_blank" >林业科学研究所举办专业技术培训班</a>2017-02-11</ul></br>
+               <ul>
+               <a href ="   "target="_blank" >林业科学研究所举办专业技术培训班</a>2017-02-11</ul></br>
+               <ul>
+               <a href ="   "target="_blank" >林业科学研究所举办专业技术培训班</a>2017-02-11</ul></br>
+               <ul>
+               <a href ="   "target="_blank" >林业科学研究所举办专业技术培训班</a>2017-02-11</ul></br>
+               <ul>
+               <a href ="   "target="_blank" >林业科学研究所举办专业技术培训班</a>2017-02-11</ul></br>
+               <ul>
+               <a href ="   "target="_blank" >林业科学研究所举办专业技术培训班</a>2017-02-11</ul></br>
+               <ul>
+               <a href ="   "target="_blank" >林业科学研究所举办专业技术培训班</a>2017-02-11</ul></br>
+               <ul>
+               <a href ="   "target="_blank" >林业科学研究所举办专业技术培训班</a>2017-02-11</ul></br>
+               <ul>
+               <a href ="   "target="_blank" >林业科学研究所举办专业技术培训班</a>2017-02-11</ul></br>
+               <ul>
+               <a href ="   "target="_blank" >林业科学研究所举办专业技术培训班</a>2017-02-11</ul></br>
+           <a href ="   "target="_blank" >前一页</a>&nbsp;<a href ="   "target="_blank" >1</a>&nbsp;<a href ="   "target="_blank" >2</a>&nbsp;<a href ="   "target="_blank" >3</a>&nbsp;...&nbsp;<a href ="   "target="_blank" >后一页</a>
