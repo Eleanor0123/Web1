@@ -1,0 +1,41 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+#titlediv{
+	background-image: url(../image/header.png);
+	width: 175px;
+	height: 65px;
+}
+.menu a{
+	    color:gray;
+		text-decoration:none;
+		font-family:华文细黑;
+		text-align:cneter;
+}
+.menu{
+	background-image: url(../image/bj.png); 
+    width:220px;
+    height:381px;
+}
+ul li{
+    background-image:url(../image/baibiaoti.png);
+	width:170px;
+	height:36px;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 20px;
+	list-style-type:none;
+}
+.menu .lv{
+	background-image:url(../image/lvbiaoti.png);
+	width:170px;
+	height:36px;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 20px;
+	list-style-type:none;
+}
+.lv a{
+	color:white;
+}
