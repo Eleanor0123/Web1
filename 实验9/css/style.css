@@ -5,7 +5,6 @@
 	border: 0px;
 	padding: 0px;
 	margin: 0px;
-	background-position: center;
 }
 .nav_body li{
 	list-style:none;
@@ -113,7 +112,7 @@ p{
 .news_list{
 	width:330px;
 	margin-left:38px;
-	float:left;
+    float:left;
 	background-image:url(../images/change.png);
 	background-repeat: no-repeat;
 	line-height: 30px;
